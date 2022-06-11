@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Montserrat&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Inconsolata', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F1FAEE;
+  color: #1D3557
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.75rem;
+  line-height: 1.6;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  background-color: #A8DADC;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 2rem;
+}
+
+.introduction { 
+  margin-left: 10%;
+}
+.intro-spacer {
+  height: 20vw;
+  width: 100%;
+}
+
+.about-me {
+  display: flex;
+  margin: 10vw;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Maybe new background color here */
+.skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5vw;
+}
+
+.skills-bg {
+  padding: 2vw 6vw 2vw 6vw;
+  background-color: #E63946;
+  color: #F1FAEE;
+}
+
+.skills-bg h2 {
+  color: #1D3557;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* Tablets */ 
+@media screen and (max-width: 960px) {
+
+}
+
+/* Don't you guys have phones? */
+@media screen and (max-width: 480px) {
+
+}
