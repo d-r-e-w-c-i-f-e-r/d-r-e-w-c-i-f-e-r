@@ -8,7 +8,7 @@ class Hero extends React.Component {
             <div className="hero">
                 <div className="introduction">
                     <h1>Drew Sanders</h1>
-                    <p>TS/SCI Cleared | Front End Developer | Zerg Complainer</p>
+                    <p>Front End Developer | TS/SCI Cleared | Zerg Complainer</p>
                 </div>
                 <div className="intro-spacer" />
             </div>

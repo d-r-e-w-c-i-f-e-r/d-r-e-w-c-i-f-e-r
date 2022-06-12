@@ -27,7 +27,7 @@ p {
   background-color: #A8DADC;
 }
 
-.hero h1 {
+h1 {
   font-size: 3rem;
 }
 
@@ -65,10 +65,29 @@ p {
   color: #F1FAEE;
 }
 
-.skills-bg h2 {
+.skills-bg h1 {
   color: #1D3557;
 }
 
+.work {
+  margin-top: 12vw;
+}
+
+.job {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5vw 10vw .05vw 10vw;
+}
+
+.job img {
+  width: 20%;
+  padding: 2% 10% 2% 10%;
+}
+
+.job-text {
+  width: 70%;
+}
 
 
 code {
