@@ -97,10 +97,13 @@ h1 {
 }
 
 .nav {
-  height: 4.25vw;
   width: 100vw;
   position: absolute;
   background-color: #F1FAEE;
+}
+
+.nav p {
+  margin: 2vw 0vw 2vw 0vw;
 }
 
 .nav a:link {
