@@ -89,6 +89,28 @@ h1 {
   width: 70%;
 }
 
+.edu {
+  margin-top: 5vw;
+  padding: 5vw 0vw 10vw 0vw;
+  background-color: #1D3557;
+  color: #F1FAEE;
+}
+
+.nav {
+  height: 4.25vw;
+  width: 100vw;
+  position: absolute;
+  background-color: #F1FAEE;
+}
+
+.nav a:link {
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

@@ -8,7 +8,7 @@ class Me extends React.Component {
                 <div className="about-me-txt">
                     <h1>About Me</h1>
                     <p>Former foreign intelligence analyst transitioning away from the military environment and into the tech space. During my service in the Air Force, I was awarded the Air Force Achievement Medal for designing and constructing the face of the Kessel Run coding initiative. 
-                    I love to work on projects with passionate, driven people looking to design the future. I've always been a huge fan of strategy games and anything that pushes me to learn and become a better version of myself. I also make a mean pot roast. I've completed the 14-week VetsWhoCode developer bootcamp and I am currently working on a Bachelor's degree in Computer Science at Iona College, expecting to graduate in the fall of 2023. 
+                    I love to work on projects with passionate, driven people looking to design the future. I've always been a huge fan of strategy games and anything that pushes me to become a better version of myself. I also make a mean pot roast. I've completed the 14-week VetsWhoCode developer bootcamp (MERN stack) and I am currently working on a Bachelor's degree in Computer Science at Iona College, expecting to graduate in the fall of 2023. 
                     </p>
                 </div>
                 <img src={AFAM} />
